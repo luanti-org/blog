@@ -3,7 +3,9 @@ layout: default
 ---
 
 {% assign cover_image = page.image %}
-{% if page.image_has_full %}
+{% if page.banner %}
+	{% assign cover_image = page.banner %}
+{% elsif page.image_has_full %}
 	{% assign cover_image = cover_image | replace: ".jpg", "_full.jpg" | replace: ".png", "_full.png" %}
 {% endif %}
 
