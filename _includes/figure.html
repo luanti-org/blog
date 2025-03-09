@@ -1,5 +1,5 @@
 {% assign img_url = include.src | default: include.value.src %}
-{% assign link_url = img_url %}
+{% assign link_url = include.link | default: img_url %}
 {% if include.full or include.value.full %}
 	{% assign link_url = link_url | replace: ".jpg", "_full.jpg" | replace: ".png", "_full.png" %}
 {% endif %}
