@@ -5,6 +5,7 @@ gem "webrick", "~> 1.7"
 gem "json"
 gem "sassc", "2.1"
 gem "bigdecimal"
+gem "logger"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
