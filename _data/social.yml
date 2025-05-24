@@ -2,6 +2,10 @@
   icon: fas fa-home
   url: https://www.luanti.org
 
+- title: GitHub
+  icon: fab fa-github
+  url: https://github.com/luanti-org/blog
+
 - title: Forums
   icon: fas fa-comments
   url: https://forum.luanti.org
