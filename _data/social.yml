@@ -2,18 +2,17 @@
   icon: fas fa-home
   url: https://www.luanti.org
 
+- title: GitHub
+  icon: fab fa-github
+  url: https://github.com/luanti-org/blog
+
 - title: Forums
   icon: fas fa-comments
   url: https://forum.luanti.org
 
-- title: Twitter
-  icon: fab fa-twitter
-  # TODO what's the status on the X account reserved by celeron here?
-  url: https://twitter.com/MinetestProject
-
 - title: Mastodon
   icon: fab fa-mastodon
-  url: https://fosstodon.org/@Luanti
+  url: https://floss.social/@Luanti
 
 - title: RSS
   icon: fas fa-rss

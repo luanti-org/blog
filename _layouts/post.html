@@ -142,35 +142,21 @@ layout: default
 		{% endif %}
 	</article>
 
-	<div class="section is-medium">
+	<div class="section is-small">
 		<div class="columns is-vcentered is-variable is-7">
 			{% if page.forum_topic %}
 				<div class="column has-text-right seperator-right">
 					<a href="{{ page.forum_topic }}" class="button is-primary is-large">
 						<i class="fas fa-comments mr-3"></i>
-						Discuss on the forums
+						Discuss on the Forums
 					</a>
 				</div>
 			{% endif %}
-			<div class="column">
-				<p class="mb-1">Share:</p>
-				<p class="my-0">
-					<a class="button is-small" href="https://twitter.com/intent/tweet/?text={{ page.title | url_escape }}%20{{ page.url | absolute_url | url_escape }}">
-						<i class="fab fa-twitter"></i>
-					</a>
-					<a class="button is-small" href="https://facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_escape}}">
-						<i class="fab fa-facebook"></i>
-					</a>
-					<a class="button is-small" href="https://reddit.com/submit/?url={{ page.url | absolute_url | url_escape }}">
-						<i class="fab fa-reddit"></i>
-					</a>
-					<a class="button is-small" href="https://www.tumblr.com/widgets/share/tool?posttype=link&amp;title={{ page.title | url_escape }}&amp;caption={{ page.title | url_escape }}&amp;content={{ page.url | absolute_url | url_escape }}&amp;canonicalUrl={{ page.url | absolute_url | url_escape }}&amp;shareSource=tumblr_share_button">
-						<i class="fab fa-tumblr"></i>
-					</a>
-					<a class="button is-small" href="mailto:?subject={{ page.title | url_escape }}&amp;body={{ page.url | absolute_url | url_escape }}">
-						<i class="fas fa-envelope"></i>
-					</a>
-				</p>
+			<div class="column has-text-left">
+				<a href="https://www.luanti.org/get-involved/#donate" class="button is-primary is-large">
+					<i class="fas fa-hand-holding-heart mr-3"></i>
+					Support Luanti
+				</a>
 			</div>
 		</div>
 	</div>
