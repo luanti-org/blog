@@ -12,7 +12,7 @@ excerpt: >-
   Luanti to operate like a non-profit and unlocks many new opportunities.
 image: /static/blog/oce/cover.png
 hero_theme: light
-# forum_topic: https://forum.luanti.org/viewtopic.php?t=
+forum_topic: https://forum.luanti.org/viewtopic.php?t=32102
 ---
 
 <h2 class="sr-only">Introduction</h2>
