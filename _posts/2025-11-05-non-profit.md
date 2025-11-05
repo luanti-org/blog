@@ -3,17 +3,16 @@ layout: post
 title: "Luanti Non-Profit: We've Joined Open Collective Europe"
 authors: [rubenwardy]
 description: >-
-  WIP
+  Joining Open Collective Europe allows Luanti to operate like a non-profit and
+  unlocks many new opportunities.
 excerpt: >-
   Luanti has joined Open Collective Europe (OCE), a non-profit based in Belgium
   that provides fiscal hosting to open source projects. OCE hosts many notable
   projects, including EndeavourOS, F-Droid, and postmarketOS. Joining OCE allows
   Luanti to operate like a non-profit and unlocks many new opportunities.
 image: /static/blog/oce/cover.png
-# image_credit: GreenXenith. Odon Dome by Atlantianminister on YourLand
-# forum_topic: https://forum.luanti.org/viewtopic.php?t=32025
-# tags:
-#   - release
+hero_theme: light
+# forum_topic: https://forum.luanti.org/viewtopic.php?t=
 ---
 
 <h2 class="sr-only">Introduction</h2>
@@ -60,6 +59,7 @@ while the rest was from other non-profit organizations
 ([Institut de Recherche et d'Innovation](https://www.iri.centrepompidou.fr/?lang=en_us),
 [Italian Linux Society](https://www.ils.org/),
 and [Wikimedia Italy](https://www.wikimedia.it/)) agreeing to pay expenses.
+
 Joining OCE relieves the individual burden of fundraising and covering costs.
 
 

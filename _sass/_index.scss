@@ -86,8 +86,14 @@ article {
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;
+	}
 
+	&.is-primary .hero-image {
 		filter: brightness(0.8);
+	}
+
+	&.is-light .hero-image {
+		opacity: 0.2;
 	}
 
 	&.hero-shadow {
