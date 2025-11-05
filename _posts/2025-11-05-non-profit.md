@@ -23,6 +23,9 @@ projects. OCE hosts many notable projects, including EndeavourOS, F-Droid, and
 postmarketOS. Joining OCE allows Luanti to operate like a non-profit and unlocks
 many new opportunities.
 
+You can donate to Luanti's non-profit collective at
+<https://opencollective.com/luanti>.
+
 <!-- more -->
 
 ## Why Open Collective Europe?
