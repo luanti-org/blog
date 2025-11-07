@@ -47,6 +47,18 @@ is a charity for public benefit and can receive grants from US foundations.
 Donations to Luanti from US-based individuals and foundations may be
 tax-deductible.
 
+### Open Collective Europe vs Open Collective
+
+From [Open Collective Europe's docs](https://docs.opencollective.com/oceurope/what-is-open-collective-europe#whats-the-difference-between-open-collective-europe-and-open-collective):
+
+> While Open Collective Europe and Open Collective work closely together, they
+> are distinct entities:
+>
+> * Open Collective Europe is an independent, Belgian-based nonprofit foundation
+>   that offers fiscal hosting and fund management services.
+> * Open Collective is a U.S.-based tech company that develops and maintains the
+>   open-source platform we use to deliver those services.
+
 
 ## How has Luanti been funded in the past?
 
@@ -98,7 +110,7 @@ welcome your input.
 
 ## How much of my donation goes to Luanti?
 
-From the [Open Collective Europe docs](https://docs.opencollective.com/oceurope/faq/general-faqs#how-much-does-it-cost):
+From [Open Collective Europe's docs](https://docs.opencollective.com/oceurope/faq/general-faqs#how-much-does-it-cost):
 
 > Open Collective Europe charges a standard **administrative fee**:
 >
@@ -110,9 +122,9 @@ From the [Open Collective Europe docs](https://docs.opencollective.com/oceurope/
 >     - Receives a **tax-deductible donation**
 >     - Receives a **public subsidy**
 >     - Receives a **manual bank transfer**
-
-The administration fees go to the Open Collective Europe foundation to cover
-their overheads. Part of the fees go to the Open Collective platform.
+>
+> Part of this fee goes to support the Open Collective platform
+> (which we use to operate our fiscal hosting).
 
 We would likely lose more than 10% if we were to manage our own non-profit
 organization, so we believe this is fair.
