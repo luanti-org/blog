@@ -58,14 +58,14 @@ You can find the resources we used on the
 
 ### T-Shirts
 
-This year, we partnered with Teckids e.V to have T-Shirts for sale on the stand.
+We partnered with Teckids e.V to have T-Shirts for sale on the stand.
 
-Teckids is a non-profit community of actively engaged children, youth, and
-adults. Their goal is fostering comprehensibility of all digital and technical
-things. Luanti is one central topic their community cares about, and their
-members strive to be community advocates towards other young people and
-educators. Among other things, they organize workshops or entire youth camps for
-FOSS conferences.
+> Teckids is a non-profit community of actively engaged children, youth, and
+> adults. Our goal is fostering comprehensibility of all digital and technical
+> things. Luanti is one central topic our community cares about, and our
+> members strive to be community advocates towards other young people and
+> educators. Among other things, we organize workshops or entire youth camps for
+> FOSS conferences.
 
 Teckids donated half of the profits to Luanti, resulting in 237 € for our
 non-profit collective.
@@ -123,6 +123,10 @@ were:
 
 We had stickers left over from the previous year as they did not arrive in time
 for FOSDEM 25. Two of stand staff paid for their own travel.
+
+We use Open Collective to make our finances transparent. See the
+[FOSDEM 26](https://opencollective.com/luanti/projects/fosdem-26/transactions?kind=EXPENSE)
+project for the raw data.
 
 
 ## Conclusion
