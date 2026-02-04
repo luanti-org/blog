@@ -18,7 +18,7 @@ pizza:
 Luanti had a stand at FOSDEM for the third year in a row, and it was our best
 year yet! Held in Brussels, Belgium, FOSDEM is the largest free and open-source
 conference in the world. FOSDEM is an excellent place to spread the word, bring
-the community together, and interact with other FOSS projects.
+the community together, and build connections with other FOSS projects.
 
 <!-- more -->
 
@@ -27,13 +27,11 @@ the community together, and interact with other FOSS projects.
 
 ### Demos
 
-One key thing we wanted to improve on from previous years was how we do demos.
-
-In previous years, we had devices on the stand running specific games. To best
-show off what Luanti has to offer, we wanted to allow visitors to easily see and
-pick a game to try out. We created a custom main menu that allowed visitors to
-try out featured games with a single click. This reduced friction and decision
-paralysis, making it much easier to showcase Luanti.
+In previous years, we had devices on the stand running specific games. Only
+showing a single game on each device doesn't allow visitors to see the variety
+available in Luanti. This year, we created a custom main menu that allowed
+visitors to try out games with a single click. This reduced friction and
+decision paralysis, making it much easier to showcase Luanti.
 
 <!-- photo of demo here -->
 
@@ -49,12 +47,11 @@ running out of both.
 
 <!-- something about new print materials -->
 
-New this year, we had postcards to promote the yearly Luanti gamejam. We gave
-out over 120 of these.
+We also had post cards to promote the yearly Luanti game jam. We gave out over
+120 of these.
 
 You can find the resources we used on the
-[press page](https://www.luanti.org/press/) and in
-[the fosdem_materials Git repository](https://codeberg.org/luanti/fosdem_materials).
+[press page](https://www.luanti.org/press/).
 
 {% include figure.html src="/static/blog/FOSDEM2026/print_materials.jpg" caption="Luanti flyers, stickers, and postcards" %}
 
@@ -92,10 +89,10 @@ mods.
 
 ## Pizza meetup
 
-FOSDEM acts as a focal point for the Luanti community. After the conference on
-Saturday night, 10 people went for pizza. This included rubenwardy, Zughy,
-GreenXenith, luatic, sfan5, y5nw, and ShadowNinja. That's 7 staff members all
-sitting around one table!
+FOSDEM acts as a focal point for the Luanti project. After the conference on
+Saturday night, ten community members went for pizza. This included rubenwardy,
+Zughy, GreenXenith, luatic, sfan5, y5nw, and ShadowNinja. That's seven staff
+members all sitting around one table!
 
 Bringing people together is hugely beneficial for the Luanti project. After the
 meal, we spent hours discussing how to improve Luanti's governance and
@@ -132,3 +129,6 @@ for FOSDEM 25. Two of stand staff paid for their own travel.
 
 Attending FOSDEM 26 provided a lot of value to the Luanti project. We'd love to
 attend again next year, if they accept our stand.
+
+Thank you to our supporters and the Italian Linux Society for making FOSDEM 2026
+possible.
