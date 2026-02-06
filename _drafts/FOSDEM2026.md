@@ -25,25 +25,26 @@ the community together, and build connections with other FOSS projects.
 
 ## The stand
 
-### Demos
+### Showcase / demos
 
 In previous years, we had devices on the stand running specific games. Only
-showing a single game on each device doesn't allow visitors to see the variety
-available in Luanti. This year, we created a custom main menu that allowed
-visitors to try out games with a single click. This reduced friction and
-decision paralysis, making it much easier to showcase Luanti.
-
-<!-- photo of demo here -->
+showing a single game on each device doesn't convey the variety available in
+Luanti. This year, we created a custom main menu that allowed visitors to try
+out games with a single click. This reduced friction and decision paralysis,
+making it much easier to showcase Luanti.
 
 Another change we made was to focus the stand more on the demos. We left the
 monitor at home and instead brought an extra laptop. This new showcase menu also
 replaced the showcase flipbook from previous years.
 
+{% include figure.html src="/static/blog/FOSDEM2026/showcase.png" caption="The showcase main menu" %}
+
 ### Flyers, stickers, and postcards
 
 Third time lucky - we finally had enough Luanti stickers on the stand! The Lua
 stickers and pride Luanti stickers also proved to be a big hit, we ended up
-running out of both.
+running out of both. We gave out over 1,500 Luanti stickers, 300 Lua stickers,
+and 200 Luanti pride stickers.
 
 <!-- something about new print materials -->
 
@@ -58,7 +59,8 @@ You can find the resources we used on the
 
 ### T-Shirts
 
-We partnered with Teckids e.V to have T-Shirts for sale on the stand.
+We partnered with [Teckids](https://teckids.org/en/) e.V to have T-Shirts for
+sale on the stand.
 
 > Teckids is a non-profit community of actively engaged children, youth, and
 > adults. Our goal is fostering comprehensibility of all digital and technical
@@ -68,7 +70,7 @@ We partnered with Teckids e.V to have T-Shirts for sale on the stand.
 > FOSS conferences.
 
 Teckids donated half of the profits to Luanti, resulting in 237 € for our
-non-profit collective.
+[non-profit collective](https://opencollective.com/luanti).
 
 ### People we talked to
 
@@ -81,11 +83,11 @@ people asking about how to use Luanti in schools or at home with their kids.
 
 ## Junior workshop
 
-On Saturday, Teckids ran a workshop to teach kids how to create Luanti
-mods. The kids were first introduced to Luanti, and then walked through the
-basics of creating their first mod, a custom node. Teckids prepared some
-advanced tasks for those that completed the basics, but due to time limitations
-the students didn't get that far.
+On Saturday, Teckids ran a workshop to teach kids how to create Luanti mods. The
+kids were first introduced to Luanti, and then walked through the basics of
+creating their first mod, a custom node. Teckids prepared some advanced tasks
+for those that completed the basics, but these were not used in the session due
+to time limitations.
 
 The workshop was popular and well-attended, so much that they ran out of chairs.
 There were many people around to help with the workshop, allowing students to
@@ -133,7 +135,7 @@ that use the same content will automatically benefit from the translation.
 
 Luanti at FOSDEM 26 cost 1302.22 € and this was funded by our
 [non-profit collective's supporters](https://www.luanti.org/donate/)
-and the [Italian Linux Society](https://www.ils.org). The ILS sponsored the
+and the [Italian Linux Society](https://www.ils.org). ILS sponsored the
 travel and accommodation costs of one staff member.
 
 Our expenses were:
