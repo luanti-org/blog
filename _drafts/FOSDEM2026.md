@@ -70,7 +70,8 @@ sale on the stand.
 > FOSS conferences.
 
 Teckids donated half of the profits to Luanti, resulting in 237 € for our
-[non-profit collective](https://opencollective.com/luanti).
+[non-profit collective](https://opencollective.com/luanti). Thank you to Teckids
+for this and for helping out with the stand!
 
 ### People we talked to
 
