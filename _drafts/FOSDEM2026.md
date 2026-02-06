@@ -82,9 +82,20 @@ people asking about how to use Luanti in schools or at home with their kids.
 ## Junior workshop
 
 On Saturday, Teckids ran a workshop to teach kids how to create Luanti
-mods.
+mods. The kids were first introduced to Luanti, and then walked through the
+basics of creating their first mod, a custom node. Teckids prepared some
+advanced tasks for those that completed the basics, but due to time limitations
+the students didn't get that far.
 
-<!-- someone from teckids to write this -->
+The workshop was popular and well-attended, so much that they ran out of chairs.
+There were many people around to help with the workshop, allowing students to
+receive plenty of individual help.
+
+The takeaway message was that software need not be something you just use as-is;
+that it can be something you can modify and configure to suit your own needs.
+
+You can find the workshop's resources in
+[the Git repo](https://edugit.org/Teckids/hacknfun/hack-n-next/luanti-mod-einstieg).
 
 
 ## Pizza meetup
@@ -103,30 +114,46 @@ development.
 
 ## Translation talk
 
-<!-- Zughy to provide notes for this -->
+Despite being one of the last talks of the conference, Zughy was able to
+showcase how his Luanti server has benefited from using Weblate throughout the
+years. The key takeaways were "don't reinvent the wheel" (as we did with the .tr
+extension years ago, to then switch to .po/.pot 🙃), "translators shouldn't have
+to deal with git", "translation means accessibility" and that having a community
+taking care of translations gives them agency.
+
+You can find the video [here](https://mirrors.dotsrc.org/fosdem/2026/k3401/AZHTZD-playing_online_games_without_language_barriers_a_luanti_server.mp4).
+
+At the end, one educator was also interested in how translations work in Luanti.
+They were quite happy to learn that, thanks to Luanti's modular nature, once
+that content is translated into e.g. Italian, all the other games and servers
+that use the same content will automatically benefit from the translation.
 
 
 ## Finances
 
-Luanti at FOSDEM 26 cost 1202.22 € and this was funded by our
-[non-profit collective's supporters](https://www.luanti.org/donate/) (988.74 €)
-and the [Italian Linux Society](https://www.ils.org) (213.48 €). Our expenses
-were:
+Luanti at FOSDEM 26 cost 1302.22 € and this was funded by our
+[non-profit collective's supporters](https://www.luanti.org/donate/)
+and the [Italian Linux Society](https://www.ils.org). The ILS sponsored the
+travel and accommodation costs of one staff member.
+
+Our expenses were:
 
 * 613.92 € for accommodation
 * 148.92 € for travel (for 2)
-* 265.88 € for print materials
+* 365.88 € for print materials
 	* 198.08 € for flyers and postcards
 	* 62.84 € for a roller banner
 	* 4.96 € for two donation signs
+	* 100 € for t-shirts for the stand staff
 * 173.50 € for the Saturday pizza meetup
 
-We had stickers left over from the previous year as they did not arrive in time
-for FOSDEM 25. Two of stand staff paid for their own travel.
+This is cheaper than previous years due to a great deal on the hotel, cheaper
+travel, and not needing to buy stickers this year.
 
-We use Open Collective to make our finances transparent. See the
+We use Open Collective to ensure that our finances are open and transparent.
+You can find the raw expenses data in the
 [FOSDEM 26](https://opencollective.com/luanti/projects/fosdem-26/transactions?kind=EXPENSE)
-project for the raw data.
+project.
 
 
 ## Conclusion
