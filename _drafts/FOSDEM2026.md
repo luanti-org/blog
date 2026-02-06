@@ -133,21 +133,21 @@ that use the same content will automatically benefit from the translation.
 
 ## Finances
 
-Luanti at FOSDEM 26 cost 1302.22 € and this was funded by our
+Luanti at FOSDEM 26 cost 1302 € and this was funded by our
 [non-profit collective's supporters](https://www.luanti.org/donate/)
 and the [Italian Linux Society](https://www.ils.org). ILS sponsored the
 travel and accommodation costs of one staff member.
 
 Our expenses were:
 
-* 613.92 € for accommodation
-* 148.92 € for travel (for 2)
-* 365.88 € for print materials
-	* 198.08 € for flyers and postcards
-	* 62.84 € for a roller banner
-	* 4.96 € for two donation signs
+* 614 € for accommodation
+* 149 € for travel (for 2)
+* 366 € for print materials
+	* 198 € for flyers and postcards
+	* 62 € for a roller banner
+	* 5 € for two donation signs
 	* 100 € for t-shirts for the stand staff
-* 173.50 € for the Saturday pizza meetup
+* 174 € for the Saturday pizza meetup
 
 This is cheaper than previous years due to a great deal on the hotel, cheaper
 travel, and not needing to buy stickers this year.
