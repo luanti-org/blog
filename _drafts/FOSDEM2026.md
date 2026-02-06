@@ -142,7 +142,7 @@ Our expenses were:
 
 * 614 € for accommodation
 * 149 € for travel (for 2)
-* 366 € for print materials
+* 365 € for print materials
 	* 198 € for flyers and postcards
 	* 62 € for a roller banner
 	* 5 € for two donation signs
