@@ -32,9 +32,9 @@ game. This year, we created a custom main menu that allowed visitors to choose
 from a selection of games with a single click. This better conveyed the variety
 available in Luanti and made the interactive demo more enjoyable.
 
-Another change we made was to focus more on the demos. We left the
-monitor at home and instead brought an extra laptop. The new showcase menu also
-replaced the showcase flipbook from previous years.
+Another change we made was to focus more on the demos. We left the monitor at
+home and instead brought an extra laptop. The new showcase menu also replaced
+the showcase flipbook from previous years.
 
 The Linux phone and Steam Deck also returned, making 4 total interactive
 showcase devices for people to try out.
@@ -52,12 +52,13 @@ and 200 Luanti pride stickers.
 We did not have access to the original rollup banner, so we took the opportunity
 to redesign it before printing a new one. We adjusted the flyers to match the
 new banner design, and tried to capture more information (such as educational
-resources) to reduce space usage on the table. The design works well, but we will
-continue to improve our print materials to better represent Luanti as it grows.
+resources) to reduce space usage on the table. The design works well, but we
+will continue to improve our print materials to better represent Luanti as it
+grows.
 
 We also had post cards to promote the yearly Luanti game jam, of which we gave
-out almost 100. In the future we would like to include more small print items for
-community art and designs.
+out almost 100. In the future we would like to include more small print items
+for community art and designs.
 
 You can find the resources we used on the
 [press page](https://www.luanti.org/press/). This includes 5 different translations,
@@ -90,15 +91,15 @@ people told us that they used Luanti at school or a youth club already. We had
 many educators and parents asking about how to use Luanti in schools or at home
 with their kids.
 
-Many former players of Minetest (yes, back when it was a game) recognized the project
-and were excited about the new possibilites Luanti brings by focusing more on game
-creation. Some couldn't even believe it was the same project as before when they saw
-the new games that are possible.
+Many former players of Minetest (yes, back when it was a game) recognized the
+project and were excited about the new possibilites Luanti brings by focusing
+more on game creation. Some couldn't even believe it was the same project as
+before when they saw the new games that are possible.
 
-The hardware demos were also a big hit as usual, with many visitors surprised to see
-Luanti games running on a Steam Deck and Linux phone. The laptops also showcased the
-low hardware requirements needed for most Luanti games to run, which many people
-appreciated.
+The hardware demos were also a big hit as usual, with many visitors surprised to
+see Luanti games running on a Steam Deck and Linux phone. The laptops also
+showcased the low hardware requirements needed for most Luanti games to run,
+which many people appreciated.
 
 
 ## Junior workshop
@@ -111,11 +112,6 @@ of assistants at the workshop, allowing attendees to receive individual help.
 
 The takeaway message was that software need not be something you just use as-is;
 it can be something you modify and configure to suit your own needs.
-
-You can find the workshop's resources in [the Git
-repo](https://edugit.org/Teckids/hacknfun/hack-n-next/luanti-mod-einstieg). This
-includes some advanced tasks for those that completed the basics, but were not
-used during the session due to time limitations.
 
 
 ## Pizza meetup
