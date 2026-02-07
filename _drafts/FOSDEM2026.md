@@ -2,7 +2,7 @@
 layout: post
 title: "Luanti at FOSDEM 2026"
 authors: [rubenwardy]
-# editors: [GreenXenith]
+editors: [GreenXenith]
 # description: >-
 image: /static/blog/FOSDEM2026/wide.jpg
 banner: /static/blog/FOSDEM2026/table.jpg
@@ -25,31 +25,33 @@ the community together, and build connections with other FOSS projects.
 
 ## The stand
 
-### Showcase / demos
+### Showcase and demos
 
-In previous years, we had devices on the stand running specific games. Only
-showing a single game on each device doesn't convey the variety available in
-Luanti. This year, we created a custom main menu that allowed visitors to try
-out games with a single click. This reduced friction and decision paralysis,
-making it much easier to showcase Luanti.
+In previous years, we had a few devices on the stand, each running a specific
+game. This year, we created a custom main menu that allowed visitors to choose
+from a selection of games with a single click. This better conveyed the variety
+available in Luanti and made the interactive demo more enjoyable.
 
-Another change we made was to focus the stand more on the demos. We left the
-monitor at home and instead brought an extra laptop. This new showcase menu also
+Another change we made was to focus more on the demos. We left the
+monitor at home and instead brought an extra laptop. The new showcase menu also
 replaced the showcase flipbook from previous years.
+
+The Linux phone and Steam Deck also returned, making 4 total interactive
+showcase devices for people to try out.
 
 {% include figure.html src="/static/blog/FOSDEM2026/showcase.png" caption="The showcase main menu" %}
 
 ### Flyers, stickers, and postcards
 
-Third time lucky - we finally had enough Luanti stickers on the stand! The Lua
-stickers and pride Luanti stickers also proved to be a big hit, we ended up
+Third time lucky: We finally had enough Luanti stickers at the stand! The Lua
+stickers and Pride Luanti stickers also proved to be a big hit, as we ended up
 running out of both. We gave out over 1,500 Luanti stickers, 300 Lua stickers,
 and 200 Luanti pride stickers.
 
 <!-- something about new print materials -->
 
-We also had post cards to promote the yearly Luanti game jam. We gave out over
-120 of these.
+We also had post cards to promote the yearly Luanti game jam. We gave out almost
+100 of these.
 
 You can find the resources we used on the
 [press page](https://www.luanti.org/press/).
@@ -60,7 +62,7 @@ You can find the resources we used on the
 ### T-Shirts
 
 We partnered with [Teckids](https://teckids.org/en/) e.V to have T-Shirts for
-sale on the stand.
+sale at the stand.
 
 > Teckids is a non-profit community of actively engaged children, youth, and
 > adults. Our goal is fostering comprehensibility of all digital and technical
@@ -75,7 +77,7 @@ for this and for helping out with the stand!
 
 ### People we talked to
 
-Once again, education was an area of interest for our visitors. Lots of people
+Once again, education was a large area of interest for our visitors. Lots of people
 told us that they used Luanti at school or a youth club already. We had many
 people asking about how to use Luanti in schools or at home with their kids.
 
@@ -84,26 +86,24 @@ people asking about how to use Luanti in schools or at home with their kids.
 
 ## Junior workshop
 
-On Saturday, Teckids ran a workshop to teach kids how to create Luanti mods. The
-kids were first introduced to Luanti, and then walked through the basics of
-creating their first mod, a custom node. Teckids prepared some advanced tasks
-for those that completed the basics, but these were not used in the session due
-to time limitations.
-
-The workshop was popular and well-attended, so much that they ran out of chairs.
-There were many people around to help with the workshop, allowing students to
-receive plenty of individual help.
+On Saturday, Teckids ran a workshop to teach kids how to create Luanti mods.
+Participants were first introduced to Luanti, and then walked through the basics
+of creating their first mod, a custom node. The workshop was popular and
+well-attended, so much that they ran out of chairs! Even so, there were plenty
+of assistants at the workshop, allowing attendees to receive individual help.
 
 The takeaway message was that software need not be something you just use as-is;
-that it can be something you can modify and configure to suit your own needs.
+it can be something you modify and configure to suit your own needs.
 
-You can find the workshop's resources in
-[the Git repo](https://edugit.org/Teckids/hacknfun/hack-n-next/luanti-mod-einstieg).
+You can find the workshop's resources in [the Git
+repo](https://edugit.org/Teckids/hacknfun/hack-n-next/luanti-mod-einstieg). This
+includes some advanced tasks for those that completed the basics, but were not
+used during the session due to time limitations.
 
 
 ## Pizza meetup
 
-FOSDEM acts as a focal point for the Luanti project. After the conference on
+FOSDEM serves as a focal point for the Luanti project. After the conference on
 Saturday night, ten community members went for pizza. This included rubenwardy,
 Zughy, GreenXenith, luatic, sfan5, y5nw, and ShadowNinja. That's seven staff
 members all sitting around one table!
@@ -134,7 +134,7 @@ that use the same content will automatically benefit from the translation.
 
 ## Finances
 
-Luanti at FOSDEM 26 cost 1302 € and this was funded by our
+Luanti at FOSDEM 26 cost 1302 € and was funded by our
 [non-profit collective's supporters](https://www.luanti.org/donate/)
 and the [Italian Linux Society](https://www.ils.org). ILS sponsored the
 travel and accommodation costs of one staff member.
@@ -147,14 +147,14 @@ Our expenses were:
 	* 198 € for flyers and postcards
 	* 62 € for a roller banner
 	* 5 € for two donation signs
-	* 100 € for t-shirts for the stand staff
+	* 100 € for stand staff t-shirts
 * 174 € for the Saturday pizza meetup
 
 This is cheaper than previous years due to a great deal on the hotel, cheaper
 travel, and not needing to buy stickers this year.
 
 We use Open Collective to ensure that our finances are open and transparent.
-You can find the raw expenses data in the
+You can find the raw expense data in the
 [FOSDEM 26](https://opencollective.com/luanti/projects/fosdem-26/transactions?kind=EXPENSE)
 project.
 
@@ -162,7 +162,7 @@ project.
 ## Conclusion
 
 Attending FOSDEM 26 provided a lot of value to the Luanti project. We'd love to
-attend again next year, if they accept our stand.
+attend again next year if they accept our stand.
 
-Thank you to our supporters and the Italian Linux Society for making FOSDEM 2026
-possible.
+Thank you to our supporters, the Italian Linux Society, and the community for
+making FOSDEM 2026 possible.
