@@ -41,6 +41,7 @@ showcase devices for people to try out.
 
 {% include figure.html src="/static/blog/FOSDEM2026/showcase.png" caption="The showcase main menu" %}
 
+
 ### Flyers, stickers, and postcards
 
 Third time lucky: We finally had enough Luanti stickers at the stand! The Lua
@@ -48,13 +49,19 @@ stickers and Pride Luanti stickers also proved to be a big hit, as we ended up
 running out of both. We gave out over 1,500 Luanti stickers, 300 Lua stickers,
 and 200 Luanti pride stickers.
 
-<!-- something about new print materials -->
+We did not have access to the original rollup banner, so we took the opportunity
+to redesign it before printing a new one. We adjusted the flyers to match the
+new banner design, and tried to capture more information (such as educational
+resources) to reduce space usage on the table. The design works well, but we will
+continue to improve our print materials to better represent Luanti as it grows.
 
-We also had post cards to promote the yearly Luanti game jam. We gave out almost
-100 of these.
+We also had post cards to promote the yearly Luanti game jam, of which we gave
+out almost 100. In the future we would like to include more small print items for
+community art and designs.
 
 You can find the resources we used on the
-[press page](https://www.luanti.org/press/).
+[press page](https://www.luanti.org/press/). This includes 5 different translations,
+as usual.
 
 {% include figure.html src="/static/blog/FOSDEM2026/print_materials.jpg" caption="Luanti flyers, stickers, and postcards" %}
 
@@ -75,13 +82,23 @@ Teckids donated half of the profits to Luanti, resulting in 237 € for our
 [non-profit collective](https://opencollective.com/luanti). Thank you to Teckids
 for this and for helping out with the stand!
 
+
 ### People we talked to
 
-Once again, education was a large area of interest for our visitors. Lots of people
-told us that they used Luanti at school or a youth club already. We had many
-people asking about how to use Luanti in schools or at home with their kids.
+Once again, education was a large area of interest for our visitors. Lots of
+people told us that they used Luanti at school or a youth club already. We had
+many educators and parents asking about how to use Luanti in schools or at home
+with their kids.
 
-<!-- to be expanded upon -->
+Many former players of Minetest (yes, back when it was a game) recognized the project
+and were excited about the new possibilites Luanti brings by focusing more on game
+creation. Some couldn't even believe it was the same project as before when they saw
+the new games that are possible.
+
+The hardware demos were also a big hit as usual, with many visitors surprised to see
+Luanti games running on a Steam Deck and Linux phone. The laptops also showcased the
+low hardware requirements needed for most Luanti games to run, which many people
+appreciated.
 
 
 ## Junior workshop
