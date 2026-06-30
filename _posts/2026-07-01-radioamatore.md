@@ -36,7 +36,7 @@ showed interest in using Luanti with their students. Luanti briefly appeared on
 Italian national TV ([here, 26s-40s](https://www.rainews.it/tgr/fvg/articoli/2026/04/tra-gli-stand-della-fiera-del-radioamatore-f483d269-539f-457f-b5c3-243818aa4573.html)).
 
 Luanti was presented by [Zughy](https://mastodon.social/@zughy_boi), a Luanti
-staff member based in Italy. Whilst FOSDEM remains our biggest event of the
+staff member based in Italy. While FOSDEM remains our biggest event of the
 year, smaller, national events are still worthwhile for outreach. Many people
 cannot attend the big events and smaller events give more time for meaningful
 connections.
