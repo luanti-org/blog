@@ -13,7 +13,7 @@ excerpt: >-
   dedicated to free and open-source software.
 image: /static/blog/radioamatore/cover.jpg
 image_credit: Zughy
-# forum_topic: https://forum.luanti.org/viewtopic.php?t=32509
+forum_topic: https://forum.luanti.org/viewtopic.php?t=32576
 tags:
   - outreach
 ---
