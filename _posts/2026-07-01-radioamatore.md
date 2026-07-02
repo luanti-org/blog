@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luanti attended Radioamatore Tech Expo (Pordenone, Italy)"
+title: "Luanti at Radioamatore Tech Expo (Pordenone, Italy)"
 authors: [rubenwardy]
 # editors: []
 description: >-
@@ -25,14 +25,13 @@ Arena, a section of the event dedicated to free and open-source software.
 
 <!-- more -->
 
-Our stand had four laptops running Luanti. Most of the time, these laptops were
-running [A.E.S](https://aes.land) so that visitors could play games together. We
+Our stand had four laptops running Luanti connected to [A.E.S](https://aes.land) most of the time so that visitors could play games together. We
 also demonstrated some singleplayer games, including
 [Slidespace](https://content.luanti.org/packages/MisterE/slide_space/) and
 [Extra Ordinance](https://content.luanti.org/packages/Sumianvoice/extra_ordinance/).
 The stand was a hit with kids; Luanti is a particularly effective introduction
 for kids to free software. A few teachers and educators also stopped by and
-showed interest in using Luanti with their students. Luanti briefly appeared on
+showed interest in using Luanti with their students. The stand also briefly appeared on
 Italian national TV ([here, 26s-40s](https://www.rainews.it/tgr/fvg/articoli/2026/04/tra-gli-stand-della-fiera-del-radioamatore-f483d269-539f-457f-b5c3-243818aa4573.html)).
 
 Luanti was presented by [Zughy](https://mastodon.social/@zughy_boi), a Luanti
