@@ -5,7 +5,7 @@ Luanti's official blog - see what's new in Luanti!
 License: MIT<br>
 Editor: MisterE
 
-See [About](https://blog.minetest.net/about/).
+See [About](https://blog.luanti.org/about/).
 
 ## Release blog posts
 
