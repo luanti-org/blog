@@ -25,19 +25,21 @@ Arena, a section of the event dedicated to free and open-source software.
 
 <!-- more -->
 
-Our stand had four laptops running Luanti connected to [A.E.S](https://aes.land) most of the time so that visitors could play games together. We
-also demonstrated some singleplayer games, including
+Our stand had four laptops running Luanti connected to [A.E.S](https://aes.land)
+most of the time, allowing visitors to play games together. We also demonstrated
+some singleplayer games, including
 [Slidespace](https://content.luanti.org/packages/MisterE/slide_space/) and
 [Extra Ordinance](https://content.luanti.org/packages/Sumianvoice/extra_ordinance/).
 The stand was a hit with kids; Luanti is a particularly effective introduction
 for kids to free software. A few teachers and educators also stopped by and
-showed interest in using Luanti with their students. The stand also briefly appeared on
-Italian national TV ([here, 26s-40s](https://www.rainews.it/tgr/fvg/articoli/2026/04/tra-gli-stand-della-fiera-del-radioamatore-f483d269-539f-457f-b5c3-243818aa4573.html)).
+showed interest in using Luanti with their students. The stand also briefly
+appeared on Italian national TV
+([here, 26s-40s](https://www.rainews.it/tgr/fvg/articoli/2026/04/tra-gli-stand-della-fiera-del-radioamatore-f483d269-539f-457f-b5c3-243818aa4573.html)).
 
 Luanti was presented by [Zughy](https://mastodon.social/@zughy_boi), a Luanti
-staff member based in Italy. While FOSDEM remains our biggest event of the
-year, smaller, national events are still worthwhile for outreach. Many people
-cannot attend the big events and smaller events give more time for meaningful
+staff member based in Italy. While FOSDEM remains our biggest event of the year,
+smaller, national events are still worthwhile for outreach. Many people cannot
+attend the big events and smaller events give more time for meaningful
 connections.
 
 Thank you to the [Pordenone Linux User Group (PNLUG)](https://www.pnlug.it/) for
