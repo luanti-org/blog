@@ -16,6 +16,7 @@ image_credit: Zughy
 forum_topic: https://forum.luanti.org/viewtopic.php?t=32576
 tags:
   - outreach
+  - education
 ---
 
 In April, Luanti attended [Radioamatore Tech Expo](https://www.radioamatorepordenone.it/),
