@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minestory 2026 conference: a hundred pupils and their construction projects"
+title: "Minestory 2026 Conference: a Hundred Pupils and their Construction Projects"
 authors: ["Julien Crémoux"]
 editors: ["rubenwardy"]
 description: >-
