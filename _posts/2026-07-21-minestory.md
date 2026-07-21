@@ -4,8 +4,17 @@ title: "Minestory 2026 conference: a hundred pupils and their construction proje
 authors: ["Julien Crémoux"]
 editors: ["rubenwardy"]
 description: >-
-  In April, Luanti had a stand at Radioamatore Tech Expo, the largest
-  electronics, radio, and computer fair in Italy.
+  A culmination of a year's work by participating classes where pupils
+  reconstruct heritage sites within Luanti.
+excerpt: >-
+  On the 15th and 16th of June, the Minestory project brought together several
+  classes and their teachers to an annual conference hosted by Campus Numéria at
+  Futuroscope in Poitiers. The conference is a culmination of a year's work by
+  the participating classes. The aim of Minestory is allow pupils to learn in a
+  different way through video games and with the help of Luanti. For several
+  years now, Minestory has enabled pupils to become researchers, heritage guides
+  and 3D modellers by reconstructing heritage sites within the open-source
+  Luanti universe.
 image: /static/blog/2026_minestory/cover.jpg
 image_credit: "Minestory"
 # forum_topic: https://forum.luanti.org/viewtopic.php?t=32576
