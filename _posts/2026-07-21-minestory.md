@@ -67,11 +67,12 @@ whilst discovering the work carried out by the other schools.
 The afternoon centred on two key events. During the conference, each class took
 to the stage to present their monument, their approach, and the knowledge they
 had acquired over the course of the year. The pupils also had the pleasure of
-welcoming Thomas François, this year’s guest speaker, who came to present Luanti
-and discuss with them the digital environment that underpins the project. The
-second part of the day was devoted to collaborative workshops bringing together
-groups of pupils from different schools for activities designed to encourage
-cooperation and the application of what they had learnt.
+welcoming Thomas François, this year’s guest speaker
+([slides](/static/blog/2026_minestory/presentation.pdf)), who came to present
+Luanti and discuss with them the digital environment that underpins the project.
+The second part of the day was devoted to collaborative workshops bringing
+together groups of pupils from different schools for activities designed to
+encourage cooperation and the application of what they had learnt.
 
 ## Monuments
 
