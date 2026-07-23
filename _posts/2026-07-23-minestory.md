@@ -44,7 +44,7 @@ monuments:
 
 On the 15th and 16th of June, the
 [Minestory](https://minetest.wp.ac-dijon.fr/minestory-frise-immersive-de-sites-du-patrimoine-architectural/)
-project brought together several classes and their teachers to an annual
+project brought together several classes and their teachers for an annual
 conference hosted by
 [Campus Numéria](https://www.ac-poitiers.fr/campusnumeria) at
 Futuroscope in Poitiers, France. The conference is a culmination of a year's
@@ -66,8 +66,8 @@ whilst discovering the work carried out by the other schools.
 
 The afternoon centred on two key events. During the conference, each class took
 to the stage to present their monument, their approach, and the knowledge they
-had acquired over the course of the year. The pupils also had the pleasure of
-welcoming Thomas François, this year’s guest speaker
+had acquired throughout the year. The pupils also had the pleasure of welcoming
+Thomas François, this year’s guest speaker
 ([slides](/static/blog/2026_minestory/presentation.pdf)), who came to present
 Luanti and discuss with them the digital environment that underpins the project.
 The second part of the day was devoted to collaborative workshops bringing
