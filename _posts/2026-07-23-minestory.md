@@ -17,7 +17,7 @@ excerpt: >-
   Luanti universe.
 image: /static/blog/2026_minestory/cover.jpg
 image_credit: "Minestory"
-# forum_topic: https://forum.luanti.org/viewtopic.php?t=32576
+forum_topic: https://forum.luanti.org/viewtopic.php?t=32588
 tags:
   - outreach
   - education
