@@ -1,5 +1,22 @@
 # Contributing to the blog
 
+## Guest posts
+
+Have you done a Luanti-related project that you think should be featured with
+a dedicated post on our blog? (ie: [Minestory](https://blog.luanti.org/2026/07/23/minestory/)).
+
+[Create an issue](https://github.com/luanti-org/blog/issues) or email us at
+[hello@luanti.org](mailto:hello@luanti.org).
+
+## Last month in Luanti
+
+Last Month in Luanti posts are no longer being written due to a lack of blog editors.
+
+## Become a blog editor
+
+Reach out to rubenwardy if you'd like to become a blog editor.
+
+<!--
 ## What you can contribute
 
 Are you working with Luanti? We'd love to know what's new with you! We're
@@ -74,4 +91,4 @@ resources. Each post should have a cover image, as described above.
 - [ ] Create new post on Reddit and the forums.
 - [ ] Edit post to add link to the forums in front matter
       (`forum_topic: https://...`).
-- [ ] Post in Discord, IRC, and Matrix.
+- [ ] Post in Discord, IRC, and Matrix. -->

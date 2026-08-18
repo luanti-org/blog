@@ -8,8 +8,8 @@ layout: page
 
 ## What is Luanti?
 
-[Luanti](https://www.luanti.org) is an open source voxel game engine. See
-the website for more information.
+[Luanti](https://www.luanti.org) is an open source voxel game-creation platform.
+See the website for more information.
 
 <a href="https://www.luanti.org" class="button is-primary">
 	Luanti Website
@@ -17,15 +17,9 @@ the website for more information.
 
 ## What is the Luanti blog?
 
-We post updates about once per month (subject to change) to let you know what's
-new with Luanti. We cover everything about Luanti, from engine development,
-to mod and game progress, to server news and community events. Even
-Luanti-related artwork has a place here. Posts are subdivided by general
-topic.
+The place for official updates about the Luanti project.
 
-We can also do special posts about important events or updates important to the
-general Luanti community.
-
+<!--
 ## Who is behind the Luanti Blog?
 
 <div class="columns">
@@ -50,21 +44,27 @@ general Luanti community.
 			</div>
 		</div>
 	{% endfor %}
-</div>
+</div> -->
 
 ## Contributing to Posts
 
+Last Month in Luanti posts are no longer being written due to a lack of blog editors.
+
+We're looking for people who can become blog editors to help us publish on the Luanti blog.
+See [CONTRIBUTING.md](https://github.com/luanti-org/blog/blob/master/.github/CONTRIBUTING.md#become-a-blog-editor).
+
+<!--
 Are you working with Luanti? We'd love to know what's new with you! We're
 looking for news about engine/mod/game development, servers, art and builds,
 and more.
 
 If you have something great to share:
 
-1. Read the [submission guidelines](https://github.com/minetest/blog/blob/master/.github/CONTRIBUTING.md).
+1. Read the [submission guidelines](https://github.com/luanti-org/blog/blob/master/.github/CONTRIBUTING.md).
 
 2. Make an issue on the
-   [GitHub issue tracker](https://github.com/minetest/blog/issues).
+   [GitHub issue tracker](https://github.com/luanti-org/blog/issues).
 
    Alternatively, you can contact an editor on the forums
    ([MisterE](https://forum.luanti.org/memberlist.php?mode=viewprofile&u=26284))
-   or post an issue on [GitLab](https://gitlab.com/minetest/blog/-/issues).
+   or post an issue on [GitLab](https://gitlab.com/luanti-org/blog/-/issues). -->
