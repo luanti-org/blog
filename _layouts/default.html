@@ -13,15 +13,15 @@
 
 	<link rel="icon" href="/static/luanticon.png">
 
-	<meta name="og:title" content="{{ page.title }}" />
-	<meta name="og:url" content="{{ page.url | absolute_url }}" />
-	<meta name="og:site_name" content="Luanti Blog">
+	<meta property="og:title" name="og:title" content="{{ page.title }}" />
+	<meta property="og:url" name="og:url" content="{{ page.url | absolute_url }}" />
+	<meta property="og:site_name" name="og:site_name" content="Luanti Blog">
 	{% if page.description %}
-		<meta name="og:description" content="{{ page.description | escape | strip }}">
+		<meta property="og:description"  name="og:description" content="{{ page.description | escape | strip }}">
 		<meta name="description" content="{{ page.description | escape | strip }}">
 	{% endif %}
 	{% if page.image %}
-		<meta name="og:image" content="{{ page.image | absolute_url }}" />
+		<meta property="og:image" name="og:image" content="{{ page.image | absolute_url }}" />
 		<meta name="twitter:image" content="{{ page.image | absolute_url }}" />
 	{% endif %}
 	{% if page.noindex %}
