@@ -6,17 +6,17 @@ authors: [Luanti team]
 #   Mapgen Work, Main Menu Redesign
 # authors: [JohnDoe] # Required, must be an array
 # editors: [Bobby, Sue] # Optional, must be an array
-image: /static/blog/2026_dmca/cover.png
+image: /static/blog/2026_dmca/cover.webp
 # tags:
 #   - last_month
 games:
-  - src: /static/blog/2026_dmca/asuna.png
+  - src: /static/blog/2026_dmca/asuna.webp
     caption: >-
       <a href="https://content.luanti.org/packages/EmptyStar/asuna/">Asuna by EmptyStar</a>, a sandbox game with a focus on biomes and exploration
-  - src: /static/blog/2026_dmca/extra_ordinance.png
+  - src: /static/blog/2026_dmca/extra_ordinance.webp
     caption: >-
       <a href="https://content.luanti.org/packages/Sumianvoice/extra_ordinance/">Extra Ordinance by Sumi</a>, a top-down shooter
-  - src: /static/blog/2026_dmca/lazarr.png
+  - src: /static/blog/2026_dmca/lazarr.webp
     caption: >-
       <a href="https://content.luanti.org/packages/Wuzzy/lazarr/">Lazarr! by Wuzzy</a>, a puzzle game with lasers
 ---
@@ -97,7 +97,7 @@ assets Luanti allegedly uses.
 Luanti is a game-creation platform and does not ship with any games, let alone
 game assets. In fact, here are all the textures Luanti comes with:
 
-{% include figure.html src="/static/blog/2026_dmca/builtin.png" caption="All textures in the Luanti app" %}
+{% include figure.html src="/static/blog/2026_dmca/builtin.webp" caption="All textures in the Luanti app" %}
 
 The GitHub repository does include the
 [Development Test game](https://content.luanti.org/packages/Luanti/devtest/),
@@ -105,7 +105,7 @@ which is also available on ContentDB but is not included in Luanti releases
 anymore. Being a testing ground for the engine, the textures are largely
 utilitarian in nature.
 
-{% include figure.html src="/static/blog/2026_dmca/devtest.png" caption="Development Test game, for engine development" %}
+{% include figure.html src="/static/blog/2026_dmca/devtest.webp" caption="Development Test game, for engine development" %}
 
 ### Minetest Game
 
@@ -125,7 +125,7 @@ Players can download content from ContentDB, our in-app game catalog. Except for
 Minetest Game and Development Test, all these games, mods, and texture packs are
 third-party, just like most apps on Google Play.
 
-{% include figure.html src="/static/blog/2026_dmca/contentdb.png" caption="ContentDB in the main menu" %}
+{% include figure.html src="/static/blog/2026_dmca/contentdb.webp" caption="ContentDB in the main menu" %}
 
 Packages uploaded on ContentDB are reviewed manually by volunteer staff before
 they are approved. We proactively check for copyright issues, including checking
