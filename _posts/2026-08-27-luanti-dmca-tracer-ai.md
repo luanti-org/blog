@@ -73,7 +73,7 @@ the community, or simply join multiplayer servers.
 
 {% include figure_gallery.html items=page.games %}
 
-Luanti is a non-profit project developed by a community of passionate
+We are a non-profit project developed by a community of passionate
 individuals expressing their creativity. Luanti is open source, which means
 anyone can view the source code, modify it, learn from it, redistribute it, and
 even sell games made with it on platforms like Steam.
