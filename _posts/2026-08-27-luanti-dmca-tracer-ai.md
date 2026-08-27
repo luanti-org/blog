@@ -99,6 +99,9 @@ game assets. In fact, here are all the textures Luanti comes with:
 
 {% include figure.html src="/static/blog/2026_dmca/builtin.webp" caption="All textures in the Luanti app" %}
 
+Luanti also includes further assets, particularly fonts. These are properly
+attributed in the [license file](https://github.com/luanti-org/luanti/blob/master/LICENSE.txt).
+
 The GitHub repository does include the
 [Development Test game](https://content.luanti.org/packages/Luanti/devtest/),
 which is also available on ContentDB but is not included in Luanti releases
