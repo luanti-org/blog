@@ -1,20 +1,17 @@
 ---
 layout: post
 title: "Luanti removed from Google Play due to baseless AI copyright notice"
-authors: [Luanti team]
+authors: [the Luanti team]
 description: >-
   Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI.
   We have filed a counter-notice, but this isn't the first time.
-# description: >
-#   Mapgen Work, Main Menu Redesign
 excerpt: >-
   Luanti's Android app is currently not available on the Google Play Store due to
   a baseless DMCA notice filed on behalf of Microsoft by Tracer.AI, alleging that
   Luanti infringes Minecraft copyright. The Luanti app does not contain any
   proprietary code or assets, from Minecraft or otherwise.
-# authors: [JohnDoe] # Required, must be an array
-# editors: [Bobby, Sue] # Optional, must be an array
 image: /static/blog/2026_dmca/cover.webp
+forum_topic: https://forum.luanti.org/viewtopic.php?t=32663
 # tags:
 #   - last_month
 games:
