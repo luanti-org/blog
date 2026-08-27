@@ -30,6 +30,10 @@ games:
     caption: >-
       <a href="https://content.luanti.org/packages/Wuzzy/lazarr/">Lazarr! by Wuzzy</a>, a puzzle game with lasers
     alt: Lazarr! by Wuzzy, a puzzle game with lasers
+  - src: /static/blog/2026_dmca/klots.webp
+    caption: >-
+      <a href="https://content.luanti.org/packages/Warr1024/klots/">Klots by Warr1024</a>, a 3D sliding block puzzle game
+    alt: Klots by Warr1024, a 3D sliding block puzzle game
 ---
 
 Luanti's Android app is currently not available on the
