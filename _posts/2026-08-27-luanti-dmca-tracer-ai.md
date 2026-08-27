@@ -198,7 +198,7 @@ Quoting their website:
 From this, we can gather that Tracer uses AI agents for automated infringement
 detection. In a
 [2024 blog post](https://www.tracer.ai/tracer-blog/achieving-precision-and-speed-in-brand-protection-with-tracers-human-in-the-loop-ai),
-the company boasts "85% faster takedowns", "100% more takedowns
+the company boasts "85% faster takedowns", "100% more reviews
 month-over-month" along with "review times that are six times faster than
 traditional methods". It claims this has resulted in "44% more takedowns
 month-over-month".
