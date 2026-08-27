@@ -259,4 +259,4 @@ awareness and ensure this doesn't happen again, for us or anyone else.
 
 [^mtglicense]: [Minetest Game's LICENSE.txt](https://github.com/luanti-org/minetest_game/blob/master/LICENSE.txt)
 [^copyrightideas]: 17 U.S. Code § 102(b) <https://www.law.cornell.edu/uscode/text/17/102>
-[^timeline2023]: We submitted the counter notice on 25 March, 2023 and the app was reinstated on 10 May, 2023.
+[^timeline2023]: We submitted the counter notice on 25 March 2023 and the app was reinstated on 10 May 2023.
