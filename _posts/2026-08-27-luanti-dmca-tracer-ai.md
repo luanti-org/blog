@@ -8,7 +8,7 @@ description: >-
 excerpt: >-
   Luanti's Android app is currently not available on the Google Play Store due to
   a baseless DMCA notice filed on behalf of Microsoft by Tracer.AI, alleging that
-  Luanti infringes Minecraft copyright. The Luanti app does not contain any
+  Luanti infringes Minecraft's copyright. The Luanti app does not contain any
   proprietary code or assets, from Minecraft or otherwise.
 image: /static/blog/2026_dmca/cover.webp
 forum_topic: https://forum.luanti.org/viewtopic.php?t=32663
@@ -37,13 +37,13 @@ Luanti's Android app is currently not available on the
 [Google Play Store](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 due to a baseless
 [DMCA notice](https://lumendatabase.org/notices/93778051) filed on behalf of
-Microsoft by Tracer.AI, alleging that Luanti infringes Minecraft copyright. The
+Microsoft by Tracer.AI, alleging that Luanti infringes Minecraft's copyright. The
 Luanti app does not contain any proprietary code or assets, from Minecraft or
 otherwise.
 
 We received an identical notice from the same company in 2023 and successfully
 appealed against it. This company also filed a similar notice this year against
-an indie game with similar voxel artstyle by the name of
+an indie game with similar voxel art style by the name of
 [Allumeria](https://allumeria.com/).
 
 
@@ -216,7 +216,7 @@ In February of this year, an indie game called
 [Allumeria](https://allumeria.com/) also received a DMCA takedown from Tracer.AI
 on behalf of Microsoft, resulting in the game's temporary removal from the Steam
 store. The notice
-[was eventually dropped by Microsoft](https://www.pcgamer.com/games/survival-crafting/i-genuinely-do-not-know-what-to-do-says-developer-of-minecraft-like-allumeria-after-microsoft-issues-a-dmca-takedown-forcing-it-off-steam/) after much public noise.
+[was eventually dropped by Microsoft](https://www.pcgamer.com/games/survival-crafting/i-genuinely-do-not-know-what-to-do-says-developer-of-minecraft-like-allumeria-after-microsoft-issues-a-dmca-takedown-forcing-it-off-steam/) after public noise.
 
 ## This can't keep happening
 
