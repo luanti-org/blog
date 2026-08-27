@@ -2,8 +2,16 @@
 layout: post
 title: "Luanti removed from Google Play due to baseless AI copyright notice"
 authors: [Luanti team]
+description: >-
+  Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI.
+  We have filed a counter-notice, but this isn't the first time.
 # description: >
 #   Mapgen Work, Main Menu Redesign
+excerpt: >-
+  Luanti's Android app is currently not available on the Google Play Store due to
+  a baseless DMCA notice filed on behalf of Microsoft by Tracer.AI, alleging that
+  Luanti infringes Minecraft copyright. The Luanti app does not contain any
+  proprietary code or assets, from Minecraft or otherwise.
 # authors: [JohnDoe] # Required, must be an array
 # editors: [Bobby, Sue] # Optional, must be an array
 image: /static/blog/2026_dmca/cover.webp
@@ -13,12 +21,15 @@ games:
   - src: /static/blog/2026_dmca/asuna.webp
     caption: >-
       <a href="https://content.luanti.org/packages/EmptyStar/asuna/">Asuna by EmptyStar</a>, a sandbox game with a focus on biomes and exploration
+    alt: Asuna by EmptyStar, a sandbox game with a focus on biomes and exploration
   - src: /static/blog/2026_dmca/extra_ordinance.webp
     caption: >-
       <a href="https://content.luanti.org/packages/Sumianvoice/extra_ordinance/">Extra Ordinance by Sumi</a>, a top-down shooter
+    alt: Extra Ordinance by Sumi, a top-down shooter
   - src: /static/blog/2026_dmca/lazarr.webp
     caption: >-
       <a href="https://content.luanti.org/packages/Wuzzy/lazarr/">Lazarr! by Wuzzy</a>, a puzzle game with lasers
+    alt: Lazarr! by Wuzzy, a puzzle game with lasers
 ---
 
 Luanti's Android app is currently not available on the
