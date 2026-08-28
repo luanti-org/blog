@@ -41,7 +41,7 @@ Microsoft by Tracer.AI, alleging that Luanti infringes Minecraft's copyright. Th
 Luanti app does not contain any proprietary code or assets, from Minecraft or
 otherwise.
 
-We received an identical notice from the same company in 2023 and successfully
+We received a similar notice from the same company in 2023 and successfully
 appealed against it. This company also filed a similar notice this year against
 an indie game with similar voxel art style by the name of
 [Allumeria](https://allumeria.com/).
@@ -202,7 +202,7 @@ month-over-month".
 
 ## This is not the first time this has happened
 
-Luanti's Android app received an identical notice from the same company in
+Luanti's Android app received a similar notice from the same company in
 March 2023. As the notice was incorrect, we submitted a counter-notice and the app
 was eventually reinstated... after 46 days[^timeline2023].
 [Section 512(g)(2)\(c)](https://www.law.cornell.edu/uscode/text/17/512) of the
