@@ -6,6 +6,7 @@ description: >-
   Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI.
   We have filed a counter-notice, but this isn't the first time.
 excerpt: >-
+  <strong>Update:</strong> The app has been reinstated on the Play Store, details will follow.
   Luanti's Android app is currently not available on the Google Play Store due to
   a baseless DMCA notice filed on behalf of Microsoft by Tracer.AI, alleging that
   Luanti infringes Minecraft's copyright. The Luanti app does not contain any
@@ -32,6 +33,8 @@ games:
       <a href="https://content.luanti.org/packages/Warr1024/klots/">Klots by Warr1024</a>, a 3D sliding block puzzle game
     alt: Klots by Warr1024, a 3D sliding block puzzle game
 ---
+
+**Update:** The app has been reinstated on the Play Store, details will follow.
 
 Luanti's Android app is currently not available on the
 [Google Play Store](https://play.google.com/store/apps/details?id=net.minetest.minetest)
