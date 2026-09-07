@@ -45,9 +45,6 @@ appealed against it. This company also filed a similar notice this year against
 an indie game with similar voxel art style by the name of
 [Allumeria](https://allumeria.com/).
 
-
-<!-- more -->
-
 ## Table of Contents <!-- omit in toc -->
 
 - [What is Luanti?](#what-is-luanti)
