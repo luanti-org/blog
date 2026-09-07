@@ -3,8 +3,8 @@ layout: post
 title: "Microsoft withdraws copyright takedown against Luanti"
 authors: [the Luanti team]
 description: >-
-  Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI.
-  We have filed a counter-notice, but this isn't the first time.
+  The DMCA notice against Luanti's app has been rescinded, reinstating the app
+  on Google Play.
 image: /static/blog/2026_dmca/cover.webp
 forum_topic: https://forum.luanti.org/viewtopic.php?t=32663
 # tags:
@@ -39,8 +39,5 @@ Microsoft actually uses Luanti for research:
 
   > We prefer Luanti over Minecraft due to its open-source design and expressive Lua API, which facilitates data collection and experimentation.
 
-These projects highlight Luanti's potential as an open, flexible platform that
-targets a wide range of audiences beyond its usual player base. Our community
-strives to make Luanti a platform that satisfies a diversity of use cases and
-this effort brings various benefits beyond our community. We appreciate that
-this is acknowledged by a broad spectrum of users.
+These projects highlight Luanti's potential as an open, flexible, and
+easy-to-use platform that satisfies a wide diversity of use cases and audiences.
