@@ -34,7 +34,7 @@ games:
     alt: Klots by Warr1024, a 3D sliding block puzzle game
 ---
 
-**Update:** The app has been reinstated on the Play Store, details will follow.
+**Update:** [Microsoft has withdrawn the notice, restoring the app to the Play Store](/2026/09/07/dmca-rescinded/).
 
 Luanti's Android app is currently not available on the
 [Google Play Store](https://play.google.com/store/apps/details?id=net.minetest.minetest)
