@@ -37,7 +37,7 @@ noindex: true
 					{{ post.title }}
 				</h2>
 				<div class="content">
-					{{ post.excerpt }}
+					{{ post.description | default: post.excerpt }}
 				</div>
 			</div>
 		</div>
