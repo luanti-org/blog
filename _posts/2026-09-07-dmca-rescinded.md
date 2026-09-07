@@ -16,8 +16,6 @@ Previously, we announced that
 alleging that Luanti infringed upon Minecraft's copyright. The notice has been
 rescinded and the app has been reinstated on the Play Store.
 
-<!-- more -->
-
 The notice being rescinded is a good outcome. The app has been reinstated on the
 Play Store sooner than if we had to wait for the counter-notice period. It also
 indicates that they have dropped this case and do not plan to file a lawsuit.
