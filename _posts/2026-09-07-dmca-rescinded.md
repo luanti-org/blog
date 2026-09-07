@@ -26,8 +26,6 @@ While we do not know whether this was the result of public outreach, we'd like
 to thank our users and readers for sharing the post. We'd also like to thank
 everyone who has offered us help.
 
-## It's not a zero-sum game
-
 After the previous post was published, the community made us aware that
 Microsoft actually uses Luanti for research:
 
