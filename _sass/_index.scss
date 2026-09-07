@@ -111,3 +111,7 @@ article {
 .image-cover  img{
 	object-fit: cover;
 }
+
+blockquote > *:last-child {
+	margin-bottom: 0;
+}
