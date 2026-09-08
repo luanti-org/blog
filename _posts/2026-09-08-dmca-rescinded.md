@@ -5,7 +5,7 @@ authors: [the Luanti team]
 description: >-
   The DMCA notice against Luanti's app has been rescinded, reinstating the app
   on Google Play.
-image: /static/blog/2026_dmca/cover.webp
+image: /static/blog/2026_dmca_rescinded/cover.webp
 forum_topic: https://forum.luanti.org/viewtopic.php?t=32663
 # tags:
 #   - last_month
