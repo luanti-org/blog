@@ -20,12 +20,7 @@ rescinded and the app has been reinstated on the Play Store.
 
 The notice being rescinded means that the app has been reinstated on the Play
 Store sooner than if we had to wait for the counter-notice period. It also
-indicates that they have dropped this case and do not plan to file a lawsuit. We
-hope that this situation does not happen for a third time.
-
-While we do not know whether this was the result of public outreach, we'd like
-to thank our users and readers for sharing the post. We'd also like to thank
-everyone who has offered us help.
+indicates that they have dropped this case and do not plan to file a lawsuit.
 
 In a remarkable twist, after the previous post, we discovered that Microsoft
 actually uses Luanti for research:
@@ -40,3 +35,9 @@ actually uses Luanti for research:
 
 These projects highlight Luanti's potential as an open, flexible, and
 easy-to-use platform that satisfies a wide diversity of use cases and audiences.
+
+While we are glad that this situation has been resolved fairly promptly, it
+still consumed a fair amount of our time to fight it. We would like to thank our
+users, readers, and others for their support. We hope that this situation does
+not happen for a third time, and that future updates about the project are about
+new features rather than legal matters.
