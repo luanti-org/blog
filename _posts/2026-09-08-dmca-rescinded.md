@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft withdraws copyright takedown against Luanti"
+title: "Microsoft/TracerAI withdraws copyright takedown against Luanti"
 authors: [the Luanti team]
 description: >-
   The DMCA notice against Luanti's app has been rescinded, reinstating the app
