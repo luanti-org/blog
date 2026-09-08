@@ -18,16 +18,17 @@ rescinded and the app has been reinstated on the Play Store.
 
 <!-- more -->
 
-The notice being rescinded is a good outcome. The app has been reinstated on the
-Play Store sooner than if we had to wait for the counter-notice period. It also
-indicates that they have dropped this case and do not plan to file a lawsuit.
+The notice being rescinded means that the app has been reinstated on the Play
+Store sooner than if we had to wait for the counter-notice period. It also
+indicates that they have dropped this case and do not plan to file a lawsuit. We
+hope that this situation does not happen for a third time.
 
 While we do not know whether this was the result of public outreach, we'd like
 to thank our users and readers for sharing the post. We'd also like to thank
 everyone who has offered us help.
 
-After the previous post was published, the community made us aware that
-Microsoft actually uses Luanti for research:
+In a remarkable twist, after the previous post, we discovered that Microsoft
+actually uses Luanti for research:
 
 * [Project VEGA](https://www.microsoft.com/en-us/research/project/project-vega/) - Microsoft Research & XBOX:
 
