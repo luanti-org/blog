@@ -2,9 +2,9 @@
 layout: post
 title: "We'll stop supporting 0.4.x on the public server list soon"
 authors: [the Luanti team]
-# description: >-
-#   Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI.
-#   We have filed a counter-notice, but this isn't the first time.
+description: >-
+  To keep players safe, we will be removing 0.4.x servers from the Luanti
+  server list in 4 weeks.
 # image: /static/blog/2026_dmca/cover.webp
 # forum_topic: https://forum.luanti.org/viewtopic.php?t=32663
 # tags:
@@ -50,3 +50,5 @@ online players.
 We encourage those who stay on 0.4.x for preference reasons to start a
 maintained fork of 0.4.x with the security fixes applied. This is especially
 important for server owners to protect players and their data.
+
+We may evaluate plans to address early 5.x versions in the future.
