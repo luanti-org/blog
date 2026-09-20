@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We'll remove 0.4.x from the serverlist soon"
+title: "We'll stop supporting 0.4.x on the public server list soon"
 authors: [the Luanti team]
 # description: >-
 #   Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI.
