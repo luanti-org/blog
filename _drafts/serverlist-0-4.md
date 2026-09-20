@@ -13,7 +13,7 @@ authors: [the Luanti team]
 
 In the last 8 years, we've made a massive effort to find and fix security
 vulnerabilities and harden our code. Our most recent release fixed multiple
-serious security vulnerabilities. By this point, we know that 0.4.x has multiple
+serious security vulnerabilities. By this point, we know that the 0.4.x series has multiple
 critical vulnerabilities. To keep players safe, we will be removing 0.4.x
 servers from the Luanti server list in 4 weeks.
 
