@@ -5,6 +5,8 @@ authors: [Luanti team]
 description: >-
   An attacker gained unauthorized access to ContentDB's servers, including emails,
   hashed passwords, and uploads. All users are advised to take action.
+image: /static/blog/2026_cdb_incident/cover.webp
+image_credit: Zenon Seth
 ---
 
 An attacker gained unauthorized access to ContentDB's servers, including emails,
