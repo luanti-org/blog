@@ -12,6 +12,8 @@ image_credit: Zenon Seth
 An attacker gained unauthorized access to ContentDB's servers and data, including emails,
 hashed passwords, and uploads. All users are advised to take action.
 
+<!-- more -->
+
 ## What happened? (All times in UTC)
 
 An attacker broke into ContentDB by exploiting two vulnerabilities. One of these
