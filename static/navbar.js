@@ -19,9 +19,38 @@ function setupNavbarBurgers() {
 	}
 }
 
+function setupThemeToggle() {
+	const toggle = document.getElementById("theme-toggle");
+	const link = document.getElementById("theme-css");
+	if (!toggle || !link) return;
+
+	const icon = toggle.querySelector("i");
+	const isDark = () => document.documentElement.dataset.theme === "dark";
+	const updateIcon = () => {
+		icon.className = isDark() ? "fas fa-sun" : "fas fa-moon";
+	};
+	updateIcon();
+
+	toggle.addEventListener("click", e => {
+		e.preventDefault();
+		const theme = isDark() ? "light" : "dark";
+		document.documentElement.dataset.theme = theme;
+		link.href = link.dataset[theme];
+		try {
+			localStorage.setItem("theme", theme);
+		} catch (err) {}
+		updateIcon();
+	});
+}
+
+function setup() {
+	setupNavbarBurgers();
+	setupThemeToggle();
+}
+
 // navbar.js loads async, so DOMContentLoaded may already have fired
 if (document.readyState === "loading") {
-	document.addEventListener("DOMContentLoaded", setupNavbarBurgers);
+	document.addEventListener("DOMContentLoaded", setup);
 } else {
-	setupNavbarBurgers();
+	setup();
 }

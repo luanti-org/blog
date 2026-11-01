@@ -8,7 +8,24 @@
 		{% unless page.title_append == false %}- {{ site.name }}{% endunless %}
 	</title>
 
-	<link rel="stylesheet" href="/static/style.css?v=6">
+	{% assign css_version = 6 %}
+	{% capture css_light %}/static/style.css?v={{ css_version }}{% endcapture %}
+	{% capture css_dark %}/static/style-dark.css?v={{ css_version }}{% endcapture %}
+	<script>
+		(function () {
+			let theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+			try {
+				const saved = localStorage.getItem("theme");
+				if (saved === "light" || saved === "dark") theme = saved;
+			} catch (e) {}
+			document.documentElement.dataset.theme = theme;
+			const href = theme === "dark" ? "{{ css_dark }}" : "{{ css_light }}";
+			// document.write keeps the sheet render-blocking, unlike appendChild
+			document.write('<link id="theme-css" rel="stylesheet" href="' + href +
+				'" data-light="{{ css_light }}" data-dark="{{ css_dark }}">');
+		})();
+	</script>
+	<noscript><link rel="stylesheet" href="{{ css_light }}"></noscript>
 	<link rel="stylesheet" href="/static/css/all.min.css">
 
 	<link rel="icon" href="/static/luanticon.png">
