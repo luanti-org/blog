@@ -11,7 +11,7 @@ $info: $blue;
 $link: $primary;
 $link-hover: $primary;
 $footer-background-color: hsl(0, 0%, 16%);
-$code: hsl(0, 0%, 16%);
+$code: hsl(0, 0%, 16%) !default;
 
 $family-sans-serif: "Titillium Web", sans-serif;
 

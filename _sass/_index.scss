@@ -30,7 +30,7 @@ article {
 	}
 
 	.readmore {
-		background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), white);
+		background-image: linear-gradient(to bottom, rgba($scheme-main, 0), $scheme-main);
 
 		padding-top: 3rem;
 		position: absolute;
@@ -104,7 +104,7 @@ article {
 }
 
 .seperator-right {
-	border-right: 1px solid rgba(10, 10, 10, 0.1);
+	border-right: 1px solid $border;
 }
 
 
